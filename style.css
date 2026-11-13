@@ -1,0 +1,5 @@
+:root{color-scheme:light dark;--bg:#0d1417;--fg:#e8e3d6;--accent:#2fd3b8}
+body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.6 -apple-system,system-ui,sans-serif}
+main{max-width:760px;margin:0 auto;padding:32px 16px}
+h1,h2{color:var(--accent);line-height:1.25}a{color:var(--accent)}
+section[dir=rtl]{border-top:1px solid #2a3a3e;margin-top:32px;padding-top:16px}
